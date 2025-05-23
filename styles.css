@@ -1,0 +1,12 @@
+div {
+  border: none;
+  background-color: cyan;
+  margin-top: 25%;
+  margin-left: 25%;
+  padding: 12px;
+  border-radius: 10px;
+}
+
+body {
+  background-color: black;
+}
